@@ -1,0 +1,11 @@
+{
+  "framework-sympro.js": "http://localhost:9000/framework-sympro.js",
+  "apps-sympro.js": "http://localhost:9000/apps-sympro.js",
+  "library-sympro.js": "http://localhost:9000/library-sympro.js",
+  "dev-server.js": "http://localhost:9000/dev-server.js",
+  "framework.css": "http://localhost:9000/framework-sympro.css",
+  "apps.css": "http://localhost:9000/apps-sympro.css",
+  "library.css": "http://localhost:9000/library-sympro.css",
+  "runtime.js": "http://localhost:9000/runtime.js",
+  "../index.html": "http://localhost:9000/../index.html"
+}

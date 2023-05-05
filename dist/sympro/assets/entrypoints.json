@@ -1,0 +1,52 @@
+{
+  "entrypoints": {
+    "framework-sympro": {
+      "js": [
+        "/runtime.js",
+        "/framework-sympro.js"
+      ]
+    },
+    "apps-sympro": {
+      "js": [
+        "/runtime.js",
+        "/apps-sympro.js"
+      ]
+    },
+    "library-sympro": {
+      "js": [
+        "/runtime.js",
+        "/library-sympro.js"
+      ]
+    },
+    "dev-server": {
+      "js": [
+        "/runtime.js",
+        "/dev-server.js"
+      ]
+    },
+    "framework": {
+      "js": [
+        "/runtime.js"
+      ],
+      "css": [
+        "/framework-sympro.css"
+      ]
+    },
+    "apps": {
+      "js": [
+        "/runtime.js"
+      ],
+      "css": [
+        "/apps-sympro.css"
+      ]
+    },
+    "library": {
+      "js": [
+        "/runtime.js"
+      ],
+      "css": [
+        "/library-sympro.css"
+      ]
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "framework-sympro.js": "/framework-sympro.js",
+  "apps-sympro.js": "/apps-sympro.js",
+  "library-sympro.js": "/library-sympro.js",
+  "dev-server.js": "/dev-server.js",
+  "framework.css": "/framework-sympro.css",
+  "apps.css": "/apps-sympro.css",
+  "library.css": "/library-sympro.css",
+  "runtime.js": "/runtime.js",
+  "../index.html": "/../index.html"
+}

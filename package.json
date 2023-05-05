@@ -1,0 +1,28 @@
+{
+  "name": "task2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "NODE_ENV=$TITLE encore production --progress",
+    "start": "NODE_ENV=$TITLE encore dev-server --port 9000",
+    "encore": "NODE_ENV=$TITLE encore",
+    "dev-server": "encore dev-server"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@symfony/webpack-encore": "^4.3.0",
+    "autoprefixer": "^10.4.14",
+    "copy-webpack-plugin": "^11.0.0",
+    "dotenv": "^16.0.0",
+    "dotenv-webpack": "^8.0.1",
+    "html-loader": "^4.2.0",
+    "html-webpack-plugin": "^5.5.1",
+    "postcss": "^8.4.23",
+    "postcss-loader": "^7.3.0",
+    "sass": "^1.62.1",
+    "sass-loader": "^13.2.2",
+    "tailwindcss": "^3.3.2"
+  }
+}
