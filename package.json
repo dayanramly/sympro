@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "build": "NODE_ENV=$TITLE encore production --progress",
-    "start": "NODE_ENV=$TITLE encore dev-server --port 9000",
+    "start": "NODE_ENV=$TITLE encore dev-server --port 8080",
     "encore": "NODE_ENV=$TITLE encore",
     "dev-server": "encore dev-server"
   },
